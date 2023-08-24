@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in the Odin Project's Foundation course, requiring me to use HTML to create a simple recipes page. I've tried to start the Odin Project and not been serious about it many times, hopefully this time it sticks!
